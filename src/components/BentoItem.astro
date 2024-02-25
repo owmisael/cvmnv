@@ -1,0 +1,9 @@
+---
+interface Props {
+  class?: string
+}
+---
+
+<article class={`${Astro.props.class}`}>
+  <slot name="content"></slot>
+</article>
