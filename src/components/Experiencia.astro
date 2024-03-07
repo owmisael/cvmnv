@@ -5,7 +5,7 @@ import { work } from '../info.json'
 ---
 
 <div>
-    <ol class="relative mt-16">
+    <ol class="relative mt-10">
         {
             work.map(({ name, url, summary, position, startDate, endDate}) => {    
                 return(
@@ -16,7 +16,6 @@ import { work } from '../info.json'
                                 <span class="text-yellow-400 -left-[42px] absolute rounded-full text-5xl">•</span>
                                 <h3 class="text-xl font-bold text-yellow-400">{position}</h3>
                                 <h4 class="font-semibold text-xl text-gray-600 dark:text-white">{name}</h4>
-                                <time  class="p-0 m-0 text-sm text-gray-600/80 dark:text-white/80">{startDate} - {endDate}</time>
                             </div>
                         </div>
                         <div class="relative flex flex-col gap-2 pb-4 text-gray-600 dark:text-gray-300 md:col-span-3">
