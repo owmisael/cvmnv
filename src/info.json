@@ -1,0 +1,170 @@
+{
+    "basics": {
+      "name": "Misael Noriega V.",
+      "label": "Full Stack Developer con mas de 12 años de experiencia en diferentes tecnologias",
+      "image": "",
+      "email": "john@gmail.com",
+      "phone": "(912) 555-4321",
+      "url": "https://johndoe.com",
+      "summary": "En búsqueda de oportunidades para mejorar y crecer profesionalmente. Siempre estoy dispuesto a enfrentar nuevos desafíos y llevar proyectos web emocionantes al siguiente nivel.",
+      "location": {
+        "address": "",
+        "postalCode": "66634",
+        "city": "San Francisco",
+        "countryCode": "MX",
+        "region": "México"
+      },
+      "profiles": [{
+        "network": "Linkedin",
+        "username": "john",
+        "url": "https://linkedin.com/misael"
+      },
+      {
+        "network": "Github",
+        "username": "misael",
+        "url": "https://github.com/misael"
+      }]
+    },
+    "work": [{
+      "name": "OpenStep",
+      "position": "Developer.",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Udem",
+      "position": "Developer.",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Grupo Ti Mexico",
+      "position": "Developer.",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Muguerza",
+      "position": "Developer.",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],   
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Oracle PL/SQL",
+      "level": "Master",
+      "keywords": [
+        "X"
+      ]
+    },
+    {
+      "name": "Oracle SQL",
+      "level": "Master",
+      "keywords": [
+        "X"
+      ]
+    },
+    {
+      "name": "Oracle Cloud",
+      "level": "Master",
+      "keywords": [
+        "OIC","OCI"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": [
+        "OIC","OCI"
+      ]
+    }
+  ],
+    "languages": [{
+      "language": "Español",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }],
+    "interests": [{
+      "name": "Web Development",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }

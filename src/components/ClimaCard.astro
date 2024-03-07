@@ -1,0 +1,16 @@
+---
+import ClimaNublado from "./icons/ClimaNublado.astro"
+---
+
+<div {...Astro.props}>
+  <div class="flex flex-col justify-center items-center h-full gap-3 h-full">
+    <div class="text-md font-bold flex flex-col">
+      <span class="uppercase">Today</span> <span class="font-normal  text-sm">July 29</span>
+    </div>
+    <div class="w-32 h-32 flex items-center justify-center">
+      <ClimaNublado class="size-13 fill-slate-200" />
+    </div>
+    <p class=" mb-2">Partly cloud</p>
+    <div class="text-3xl font-bold mb-6">32º<span class="font-normal mx-1">/</span>20º</div>
+  </div>
+</div>
