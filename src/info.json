@@ -12,7 +12,7 @@
         "postalCode": "66634",
         "city": "San Francisco",
         "countryCode": "MX",
-        "region": "México"
+        "region": "Nuevo León México"
       },
       "profiles": [{
         "network": "Linkedin",
@@ -27,44 +27,44 @@
     },
     "work": [{
       "name": "OpenStep",
-      "position": "Developer.",
-      "url": "https://company.com",
+      "position": "Web Developer",
+      "url": "https://openstep.mx/",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
-      "summary": "Description…",
+      "summary": "Desarrollador web de diferentes tecnologias, principalmente trabajando con arquitectura LAMP (Linux, Apache, Mysql, Php) y explorando las novedades de Moodle como plataforma libre de educacion a distancia.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Udem",
-      "position": "Developer.",
-      "url": "https://company.com",
+      "position": "Full Stack Developer",
+      "url": "https://www.udem.edu.mx/",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
-      "summary": "Description…",
+      "summary": "Inicie como desarrollador web sobre tecnologias de Oracle como (Pl/SQL), Oracle SQL, Oracle Forms, Oracle Reports proporcionando diferentes soluciónes en forma de micrositios basado en la informacion de su ERP o agregando nuevas funciones en este. Tambien fue donde inicio fije mi camino como Full Stack",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Grupo Ti Mexico",
-      "position": "Developer.",
+      "position": "Full Stack Developer",
       "url": "https://company.com",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
-      "summary": "Description…",
+      "summary": "Entre en el area de fabrica de software apoyando en la creación de software propio para la compañia. Posteriormente pase como consultor de tecnologias de oracle brindando soluciones a diferentes compañias entre ellas Vinoteca, Casas Javer, etc.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Muguerza",
-      "position": "Developer.",
+      "name": "Christus Muguerza",
+      "position": "Full Stack Developer",
       "url": "https://company.com",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
-      "summary": "Description…",
+      "summary": "Trabajando en diferentes soluciones, desde optimizaciones y mejoras de apicaciones legadas(PLSQL), generando soluciones web atravez de Oracle Apex y generando Integracioens entre diferentes sistemas clinicos o con su ERP usando Oracle SOA,OSB y tecnologias de oracle Cloud OIC.",
       "highlights": [
         "Started the company"
       ]

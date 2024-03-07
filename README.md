@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Porfolio para programadores y desarrolladores
+# 👨🏻‍💻 Porfolio de misael noriega
 
 <div align="center">
 <a href="https://porfolio.dev/">
@@ -15,3 +15,5 @@
 ![GitHub issues](https://img.shields.io/github/issues/midudev/porfolio.dev)
 
 </div>
+
+WEb inspirado en los directos de midudev
